@@ -4,7 +4,7 @@
 
 - [Malware Analysis Lab](https://github.com/mkathia/malware-analysis)
 - [Nessus Vulnerability Scanning Lab](https://github.com/mkathia/nessus-lab)
-
+- [Active Directory Lab](https://github.com/mkathia/ad-lab)
 <!---
 <h2>📄 Certifications</h2>
 
